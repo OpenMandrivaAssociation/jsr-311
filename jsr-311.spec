@@ -4,7 +4,7 @@ Version:       1.1.1
 Release:       7.0%{?dist}
 Summary:       JAX-RS: Java API for RESTful Web Services
 License:       CDDL
-URL:           http://jsr311.java.net
+URL:           https://jsr311.java.net
 # svn export https://svn.java.net/svn/jsr311~svn/tags/jsr311-api-1.1.1 jsr-311-1.1.1
 # tar cvzf jsr-311-1.1.1.tgz jsr-311-1.1.1
 Source0:       %{name}-%{version}.tgz
